@@ -17,10 +17,10 @@ This repo contains a MATLAB demo and implementation of IGA algorithm for sparse 
 If you find *IGA* useful in your study, please cite:
 
     @article{qian2017interactive,
-    title={An Interactive Greedy Approach to Group Sparsity in High Dimension},
+    title={An Interactive Greedy Approach to Group Sparsity in High Dimensions},
     author={Qian, Wei and Li, Wending and Sogawa, Yasuhiro and Fujimaki, Ryohei and Yang, Xitong and Liu, Ji},
-    journal={arXiv preprint arXiv:1707.02963},
-    year={2017}
+    journal={Technometrics, accepted},
+    year={2018}
     }
 
 
