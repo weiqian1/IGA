@@ -4,7 +4,7 @@
 
 Interactive Grouped Greedy Algorithm (*IGA*) is a forward-backward stepwise variable/group selection algorithm for sparsity learning in high dimensional regression problems. It also introduces an interactive feature to potentially incorporate human operator's expert opinion in variable/group selection.
 
-Detailed description of *IGA* algorithm is given in a technical report shown below.
+Detailed description of *IGA* algorithm is given in the paper shown below.
 
 This repo contains a MATLAB demo and implementation of IGA algorithm for sparse linear regression and logistic regression. 
 
