@@ -12,18 +12,6 @@ This repo contains a MATLAB demo and implementation of IGA algorithm for sparse 
 
 *IGA* is released under the GPL-3 License (refer to the LICENSE file for details).
 
-### Citing *IGA*
-
-If you find *IGA* useful in your study, please cite:
-
-    @article{qian2017interactive,
-    title={An Interactive Greedy Approach to Group Sparsity in High Dimensions},
-    author={Qian, Wei and Li, Wending and Sogawa, Yasuhiro and Fujimaki, Ryohei and Yang, Xitong and Liu, Ji},
-    journal={Technometrics, accepted},
-    year={2018}
-    }
-
-
 ### Running Demo:
 0.	Add the folder `./MATLAB_fcn` to MATLAB search path
 0.	Use `demo1.m` to run a high-dimensional linear regression example with IGA.
