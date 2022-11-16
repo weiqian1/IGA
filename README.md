@@ -22,13 +22,13 @@ This repo contains a MATLAB demo and implementation of IGA algorithm for sparse 
     }
     
     @article{qian2019interactive,
-  title={An interactive greedy approach to group sparsity in high dimensions},
-  author={Qian, Wei and Li, Wending and Sogawa, Yasuhiro and Fujimaki, Ryohei and Yang, Xitong and Liu, Ji},
-  journal={Technometrics},
-  year={2019},
-  volume={61},
-  issue={3},
-}
+    title={An interactive greedy approach to group sparsity in high dimensions},
+    author={Qian, Wei and Li, Wending and Sogawa, Yasuhiro and Fujimaki, Ryohei and Yang, Xitong and Liu, Ji},
+    journal={Technometrics},
+    year={2019},
+    volume={61},
+    issue={3}
+    }
     
 
 
